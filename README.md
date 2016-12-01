@@ -31,5 +31,7 @@ roslaunch tiago_gazebo tiago_gazebo.launch public_sim:=true robot:=steel
 rosrun look_sound_source look_source_audio.py
 ```
 
+You can see it working here:
+
 [![Video of the tool working on TIAGo](http://img.youtube.com/vi/R4BE1kiR_Xo/0.jpg)](http://youtu.be/R4BE1kiR_Xo)
 
