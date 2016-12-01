@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>look_sound_source</name>
+  <version>0.0.0</version>
+  <description>The look_sound_source package has a demo
+    of looking to a sound source from HARK sound localization
+    usind head_action interface to move a robot head.</description>
+
+  <maintainer email="Sammy.Pfeiffer@student.uts.edu.au">Sam Pfeiffer</maintainer>
+
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>hark_msgs</build_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>hark_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+
+
+</package>
